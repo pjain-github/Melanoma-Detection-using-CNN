@@ -1,4 +1,4 @@
-# Skin Cancer Detection using Convolutional Neural Networks (CNN)
+# Melanoma Detection using Convolutional Neural Networks (CNN)
 
 ## Overview
 
